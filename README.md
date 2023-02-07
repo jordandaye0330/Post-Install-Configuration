@@ -215,4 +215,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-🎉Congratulations! You have set up osTicket succesfully!🎉 Click [here](https://github.com/miquelmanaois/Ticketlifesyle) to move on to the final part of this tutorial! 
+🎉Congratulations! You have set up osTicket succesfully!🎉
